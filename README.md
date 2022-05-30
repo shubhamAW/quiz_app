@@ -24,3 +24,6 @@ quize  app using django framework
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/66414385/170915338-d6d78b41-d8b4-4229-b7e5-806d19b7caac.png">
 
 
+### Useful resources :
+1. https://docs.python-guide.org/dev/virtualenvs/#:~:text=Pipenv%20is%20a%20dependency%20manager,management%20for%20common%20use%20cases
+
