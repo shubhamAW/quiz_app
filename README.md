@@ -21,3 +21,6 @@ quize  app using django framework
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/66414385/170915168-764fed6a-47cb-4c23-93aa-306635d94371.png">
 
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/66414385/170915338-d6d78b41-d8b4-4229-b7e5-806d19b7caac.png">
+
+
