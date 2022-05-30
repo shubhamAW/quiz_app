@@ -1,4 +1,4 @@
-# quize_app
+# quiz_app
 quize  app using django framework 
 
 ### To Run this project 
